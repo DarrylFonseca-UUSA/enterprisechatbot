@@ -1,8 +1,8 @@
 {
-    "pageTitle": "Azure OpenAI + AI Search",
-    "headerTitle": "Azure OpenAI + AI Search",
+    "pageTitle": "UNICEF USA Chatbot",
+    "headerTitle": "UNICEF USA Chatbot",
     "chat": "Chat",
-    "qa": "Ask a question",
+    "qa": "Have a quick question?",
     "login": "Login",
     "logout": "Logout",
     "clearChat": "Clear chat",
@@ -32,14 +32,14 @@
         "errorDeleting": "Error deleting.",
         "fileDeleted": "File deleted"
     },
-    "developerSettings": "Developer settings",
+    "developerSettings": "Settings",
 
-    "chatEmptyStateTitle": "Chat with your data",
+    "chatEmptyStateTitle": "How can I help you today?",
     "chatEmptyStateSubtitle": "Ask anything or try an example",
     "defaultExamples": {
-        "1": "What is included in my Northwind Health Plus plan that is not in standard?",
+        "1": "What is the UNICEF USA leave policy?",
         "2": "What happens in a performance review?",
-        "3": "What does a Product Manager do?",
+        "3": "What does a Project Manager do?",
         "placeholder": "Type a new question (e.g. does my plan cover annual eye exams?)"
     },
     "askTitle": "Ask your data",
